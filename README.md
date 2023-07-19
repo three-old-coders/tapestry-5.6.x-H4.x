@@ -1,4 +1,4 @@
-FORK OF APACHE TAPESTRY 5.6.x WITH DOWNGRADED HIBERNATE VERSION 4.x INSTEAD OF 5.x (sorry, for this one)
+FORK OF APACHE TAPESTRY 5.8.4 WITH DOWNGRADED HIBERNATE VERSION 4.x INSTEAD OF 5.x (sorry, for this one)
 
 Module tapestry-hibernate and tapestry-hibernate-core patched and renamed to 
 tapestry-hibernate-H4 and tapestry-hibernate-core-H4 respectively
