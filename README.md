@@ -1,3 +1,8 @@
+FORK OF APACHE TAPESTRY 5.6.x WITH DOWNGRADED HIBERNATE VERSION 4.x INSTEAD OF 5.x (sorry, for this one)
+
+Module tapestry-hibernate and tapestry-hibernate-core patched and renamed to 
+tapestry-hibernate-H4 and tapestry-hibernate-core-H4 respectively
+
 [<img src="http://tapestry.apache.org/images/tapestry.png" align="center"/>](http://tapestry.apache.org)
 
 Tapestry is a component-oriented Java web app framework focusing on performance and developer productivity.

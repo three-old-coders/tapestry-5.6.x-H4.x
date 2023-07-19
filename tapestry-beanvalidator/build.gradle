@@ -3,6 +3,9 @@ import t5build.*
 description = "Support for JSR-303 Bean Validation via the Hibernate validator implementation"
 
 dependencies {
+  implementation("io.netty:netty-transport-native-epoll:4.1.94.Final")
+  implementation group: 'io.netty', name: 'netty-transport-native-kqueue', version: '4.1.94.Final'
+
   implementation project(':tapestry-core')
 
   implementation "javax.validation:validation-api:1.0.0.GA"
